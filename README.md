@@ -3,7 +3,7 @@
 A smart productivity timer built with C++ and Arduino using the Pomodoro technique. The project is designed using a Finite State Machine (FSM) and features non-blocking timing logic for optimal responsiveness.
 
 ## 🛠️ Circuit Diagram
-![Circuit Design](circuit.png)
+![Circuit Design](circuit1.png)
 
 ## 🚀 Key Features
 - **Non-blocking Architecture:** Utilizes `millis()` instead of `delay()` to handle real-time button inputs simultaneously.
